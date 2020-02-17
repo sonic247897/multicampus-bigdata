@@ -1,0 +1,14 @@
+package hdfs.exam;
+/*
+ * hadoop의 hdfs를 api로 제어
+ * 	- hadoop hdfs에 api를 이용해서 파일을 생성
+ */
+
+public class HDFSExam01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
