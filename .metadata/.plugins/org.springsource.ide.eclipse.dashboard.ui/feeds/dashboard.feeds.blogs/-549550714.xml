@@ -5,7 +5,38 @@
   <link rel="self" href="https://spring.io/blog.atom" />
   <id>http://spring.io/blog.atom</id>
   <icon>https://spring.io/favicon.ico</icon>
-  <updated>2020-02-14T09:41:48Z</updated>
+  <updated>2020-02-18T20:52:17Z</updated>
+  <entry>
+    <title>This Week in Spring - February 18th, 2020</title>
+    <link rel="alternate" href="https://spring.io/blog/2020/02/18/this-week-in-spring-february-18th-2020" />
+    <category term="engineering" label="Engineering" />
+    <author>
+      <name>Josh Long</name>
+    </author>
+    <id>tag:spring.io,2020-02-18:3963</id>
+    <updated>2020-02-18T20:52:17Z</updated>
+    <content type="html">&lt;p&gt;Hi, Spring fans! Welcome to another installment of &lt;em&gt;This Week in Spring&lt;/em&gt;! This week I&amp;rsquo;m off to sunny Atlanta, Georgia, for the epic Devnexus show there. If you&amp;rsquo;re there, don&amp;rsquo;t hesitate to reach out and say hi! I&amp;rsquo;m also busy recording new episodes of a &lt;a href="http://BootifulPodcast.fm"&gt;&lt;em&gt;Bootiful Podcast&lt;/em&gt;&lt;/a&gt; and new &lt;a href="http://bit.ly/spring-tips-playlist"&gt;Spring Tips videos&lt;/a&gt; videos. We have some &lt;em&gt;amazing&lt;/em&gt; guests on the show coming up and we have some really fascinating topics to introduce in our Spring Tips videos, too! &lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://spring.io/blog/2020/02/14/announcing-the-new-spring-website"&gt;Announcing: The NEW Spring Website!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;In last week&amp;rsquo;s &lt;em&gt;A Bootiful Podcast&lt;/em&gt;, I talked to &lt;a href="https://spring.io/blog/2020/02/13/a-bootiful-podcast-vedran-pavic-on-spring-session-croatia-and-so-much-more"&gt;Vedran Pavic on Spring Session, Croatia, and so much more&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://spring.io/blog/2020/02/13/spring-boot-2-3-0-m2-available-now"&gt;Spring Boot 2.3.0.M2 available now&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://content.pivotal.io/intersect/spring-cloud-in-15-minutes#.XkRWaXhrS10.twitter"&gt;Spring Boot and Spring Cloud in 15 minutes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://spring.io/blog/2020/02/12/spring-integration-5-3-milestone-2-available"&gt;Spring Integration 5.3 Milestone 2 Available&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://spring.io/blog/2020/02/12/spring-data-neumann-m3-released"&gt;Spring Data Neumann M3 released&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/cloudfoundry/status/1229815095456391169"&gt;Happy birthday to the Cloud Foundry foundation&lt;/a&gt;!&lt;/li&gt;
+  &lt;li&gt;InfoQ hhas a really nice look at various, recent &lt;a href="https://www.infoq.com/news/2020/02/developer-surveys/"&gt;feveloper surveys&lt;/a&gt; and their results. One conclusion&amp;rsquo;s inescapable: Spring Boot is a tour de force! Thank you communuty for being so amazing.&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/springcentral/status/1229434232528941057"&gt;Want to learn about the latest and greatest in Spring&lt;/a&gt;? Join the SpringOne Tour this year!&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://se.ewi.tudelft.nl/desosa2019/chapters/spring-boot/"&gt;Spring Boot - production-grade Spring-based Applications that you can ¡°just run¡±&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/arungupta/status/1228413285998837760?s=12"&gt;Arun Gupta is a fellow Java champion &lt;/a&gt; and he has some nice things to say about the Spring team and - frankly - it warmed my heart and I just wanted to share. Thanks Arun - the feeling is mutual, buddy!&lt;/li&gt;
+  &lt;li&gt;Learn about &lt;a href="https://www.infoq.com/presentations/collaborative-contract-driven-development/"&gt;collaborative contract-driven development&lt;/a&gt; in this talk on - among other things - Spring Cloud Contract&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://bsideup.github.io/posts/daily_reactive/thread_locals/"&gt;Daily Reactive: Let&amp;rsquo;s talk about ThreadLocals. ¡¤ A guy with &amp;lsquo;Ego&amp;rsquo; in his name&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Java Hungry has a nice post on the &lt;a href="https://javahungry.blogspot.com/2020/01/spring-boot-interview-questions.html"&gt;top 40 Most Frequently Asked Spring Boot Interview Questions and Answers &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The &lt;a href="https://www.rabbitmq.com/blog/2020/02/12/this-month-in-rabbitmq-january-2020-recap/"&gt;RabbitMQ blog has published the epic &amp;ldquo;This Month in RabbitMQ,&amp;rdquo; January 2020 Recap&lt;/a&gt; - always worth a read!&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.infoq.com/presentations/scotiabank-chassis-appfactory/"&gt;Chassis and AppFactory: Accelerate Development of Cloud-Native Microservices for Enterprises&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://content.pivotal.io/webinars/feb-20-introduction-to-reactive-spring-part-one-webinar"&gt;Hi Spring fans! I&amp;rsquo;m doing a webinar - the first part of three - on Reactive Spring the 20th of February&lt;/a&gt; - join me!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- rendered by Sagan Renderer Service --&gt;</content>
+  </entry>
   <entry>
     <title>Announcing: The NEW Spring Website!</title>
     <link rel="alternate" href="https://spring.io/blog/2020/02/14/announcing-the-new-spring-website" />
@@ -14,7 +45,7 @@
       <name>Ben Wilcock</name>
     </author>
     <id>tag:spring.io,2020-02-13:3960</id>
-    <updated>2020-02-14T09:41:48Z</updated>
+    <updated>2020-02-14T09:41:00Z</updated>
     <content type="html">&lt;p&gt;Spring is constantly evolving and always innovating while being consistent where it matters: delivering a reliable framework to help you build maintainable software, faster. In the last few years, the Spring contributors have worked hard to bring the predictable Spring experience to microservices, serverless, streams, reactive, batch, data, and new languages like Kotlin. Over the coming year, you&amp;rsquo;ll see many more examples of this, including some cool new features that we&amp;rsquo;re just dying to share with you.&lt;/p&gt;
 &lt;p&gt;However, there was one area of Spring that we felt was desperately in need of some love and attention?the dusty old spring.io website. Very little changed on the site in the last few years. And that presented us with a problem: how do you take a well-used website that&amp;rsquo;s trusted by millions of developers, and make it better?&lt;/p&gt;&lt;h2&gt;&lt;a href="#we-love-a-challenge-hellip" class="anchor" name="we-love-a-challenge-hellip"&gt;&lt;/a&gt;We love a challenge&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;We started with motivation. If we changed the site, what would our motivation be for that change? What did we want folks to get out of it? What should it feel like to use? How should it evolve?&lt;/p&gt;
@@ -30,11 +61,11 @@
   &lt;p&gt;&lt;em&gt;Researching a topic?&lt;/em&gt; Try the topic pages including &lt;a href="https://spring.io/microservices"&gt;Microservices&lt;/a&gt;, &lt;a href="https://spring.io/cloud"&gt;Cloud&lt;/a&gt;, and &lt;a href="https://spring.io/serverless"&gt;Serverless&lt;/a&gt;&lt;br/&gt;&lt;em&gt;Going for gold?&lt;/em&gt; New &lt;a href="https://spring.io/learn"&gt;Learn&lt;/a&gt; and &lt;a href="https://spring.io/training"&gt;Training &amp;amp; Certification&lt;/a&gt; pages will boost your knowledge&lt;br/&gt;&lt;em&gt;Help in production?&lt;/em&gt; Our latest &lt;a href="https://spring.io/support"&gt;Support&lt;/a&gt; offerings will keep you up-and-running!&lt;/p&gt;
 &lt;/blockquote&gt;&lt;h2&gt;&lt;a href="#3-visitors-should-feel-our-energy" class="anchor" name="3-visitors-should-feel-our-energy"&gt;&lt;/a&gt;#3 Visitors should feel our energy!&lt;/h2&gt;
 &lt;p&gt;It was crucial that our new website should pay homage to the sheer energy and vibrancy of the Spring community. Our community is bright, passionate, innovative, confident, and dynamic. Spring is a shining example of what we can achieve if we all work together for the greater good.&lt;/p&gt;
-&lt;p&gt;In the new site, we¡¯ve used a lighter and brighter design throughout. There are zesty new tonal highlights, new graphics, and even the occasional diagram. Links to events, social media, videos, and podcasts have also been added so that you can experience first hand the passion and drive of our community and it¡¯s members.&lt;/p&gt;
+&lt;p&gt;In the new site, we¡¯ve used a lighter and brighter design throughout. There are zesty new tonal highlights, new graphics, and even the occasional diagram. Links to events, social media, videos, and podcasts have also been added so that you can experience first hand the passion and drive of our community and its members.&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;&lt;em&gt;Feeling social?&lt;/em&gt; Try our new &lt;a href="https://spring.io/community"&gt;Community and Events&lt;/a&gt; page&lt;br/&gt;&lt;em&gt;Love a good talk?&lt;/em&gt; Take a look at our new &lt;a href="https://spring.io/learn"&gt;Learn&lt;/a&gt; page with videos, podcasts &amp;amp; more&lt;/p&gt;
 &lt;/blockquote&gt;&lt;h2&gt;&lt;a href="#so-here-it-is-hellip" class="anchor" name="so-here-it-is-hellip"&gt;&lt;/a&gt;So here it is&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;These three core themes have allowed us to take everything we liked about the old site, and mold it into something &lt;a href="https://spring.io"&gt;new&lt;/a&gt;. We&amp;rsquo;ve lost very little of the existing content but we¡¯ve augmented it with new pieces that should help explain what Spring is all about, why it¡¯s so awesome, and how it can support you in your daily work.&lt;/p&gt;
+&lt;p&gt;These three core themes have allowed us to take everything we liked about the old site, and mold it into something &lt;a href="https://spring.io"&gt;new&lt;/a&gt;. We&amp;rsquo;ve lost very little content and we¡¯ve augmented what we had with new pieces that explain what Spring is all about, why it¡¯s so awesome, and how it can support you in your daily work.&lt;/p&gt;
 &lt;p&gt;As fellow developers, we know it&amp;rsquo;s impossible to build the &lt;em&gt;perfect&lt;/em&gt; website, but we really hope that you can be proud of Spring¡¯s new showcase and that you¡¯ll be happy to use it and &lt;a href="https://ctt.ac/xOb1i"&gt;share it&lt;/a&gt; with others.&lt;/p&gt;
 &lt;p&gt;Thanks for stopping by!&lt;/p&gt;
 &lt;p&gt;The Spring Website Team.&lt;/p&gt;
@@ -830,402 +861,6 @@ dependencies {&#xD;
   &lt;li&gt;Ah, the familiar singleton. I tend to take it for granted, but it&amp;rsquo;s always worth introducing if you don&amp;rsquo;t have any exposure to it. Here&amp;rsquo;s a nice article from this last week that reuses some diagrams from the original Interface 21 training (the company before SpringSource which then got acquired by VMWare, which then spun out to form Pivotal, which is now again a recently accquired part of VMWare..)&lt;/li&gt;
   &lt;li&gt;Richard Seroter has a &lt;em&gt;very&lt;/em&gt; nice article &lt;a href="https://seroter.wordpress.com/2020/01/28/lets-try-out-the-new-durable-replicated-quorum-queues-in-rabbitmq/"&gt;introducing the new replicated quorum queues in RabbitMQ &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- rendered by Sagan Renderer Service --&gt;</content>
-  </entry>
-  <entry>
-    <title>Creating Docker images with Spring Boot 2.3.0.M1</title>
-    <link rel="alternate" href="https://spring.io/blog/2020/01/27/creating-docker-images-with-spring-boot-2-3-0-m1" />
-    <category term="engineering" label="Engineering" />
-    <author>
-      <name>Phil Webb</name>
-    </author>
-    <id>tag:spring.io,2020-01-23:3938</id>
-    <updated>2020-01-27T17:09:00Z</updated>
-    <content type="html">&lt;div class="paragraph"&gt;
-&lt;p&gt;Spring Boot 2.3.0.M1 has just been released and it brings with it some interesting new features that can help you package up your Spring Boot application into Docker images. In this blog post we&amp;#8217;ll take a look at the typical ways developers create Docker images, and show how they can be improved by using these new features.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="sect1"&gt;
-&lt;h2 id="common-docker-techniques"&gt;&lt;a class="anchor" href="#common-docker-techniques"&gt;&lt;/a&gt;Common Docker Techniques&lt;/h2&gt;
-&lt;div class="sectionbody"&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;Although it&amp;#8217;s always been possible to convert the fat jars produced by Spring Boot into Docker images, it&amp;#8217;s pretty easy to make less than optimal results.
-If you do a web search for "dockerize spring boot app", the chances are high you&amp;#8217;ll find an article or blog post suggesting you create a dockerfile that looks something like this:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="listingblock"&gt;
-&lt;div class="content"&gt;
-&lt;pre class="prettyprint highlight"&gt;&lt;code class="language-java" data-lang="java"&gt;FROM openjdk:8-jdk-alpine
-EXPOSE 8080
-ARG JAR_FILE=target/my-application.jar
-ADD ${JAR_FILE} app.jar
-ENTRYPOINT ["java","-jar","/app.jar"]&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;Whilst this approach works fine, and it&amp;#8217;s nice and concise, there are a few things that are sub-optimal.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;The first problem with above file is that the jar file is not unpacked.
-There&amp;#8217;s always a certain amount of overhead when running a fat jar, and in a containerized environment this can be noticeable.
-It&amp;#8217;s generally best to unpack your jar and run in an exploded form.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;The second issue with the file is that it isn&amp;#8217;t very efficient if you frequently update your application.
-Docker images are built in layers, and in this case your application and all its dependencies are put into a single layer.
-Since you probably recompile your code more often than you upgrade the version of Spring Boot you use, it&amp;#8217;s often better to separate things a bit more.
-If you put jar files in the layer before your application classes, Docker often only needs to change the very bottom layer and can pick others up from its cache.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;Two new features are introduced in Spring Boot 2.3.0.M1 to help improve on these existing techniques: buildpack support and layered jars.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="sect1"&gt;
-&lt;h2 id="buildpacks"&gt;&lt;a class="anchor" href="#buildpacks"&gt;&lt;/a&gt;Buildpacks&lt;/h2&gt;
-&lt;div class="sectionbody"&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;If you&amp;#8217;ve ever used an application platform such as Cloud Foundry or Heroku then you&amp;#8217;ve probably used a buildpack, perhaps without even realizing it!
-Buildpacks are the part of the platform that takes your application and converts it into something that the platform can actually run.
-For example, Cloud Foundry&amp;#8217;s Java buildpack will notice that you&amp;#8217;re pushing a &lt;code&gt;.jar&lt;/code&gt; file and automatically add a relevant JRE.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;Until relatively recently buildpacks were tightly coupled to the platform and you couldn&amp;#8217;t easily use them independently.
-Thankfully they&amp;#8217;ve now broken free, and with &lt;a href="https://buildpacks.io/"&gt;Cloud Native Buildpacks&lt;/a&gt; you can use them to create Docker compatible images that you can run anywhere.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;Spring Boot 2.3.0.M1 includes buildpack support directly for both Maven and Gradle.
-This means you can just type a single command and quickly get a sensible image into your locally running Docker daemon.
-For Maven you can type &lt;code&gt;mvn spring-boot:build-image&lt;/code&gt;, with Gradle it&amp;#8217;s &lt;code&gt;gradle bootBuildImage&lt;/code&gt;.
-The name of the published image will be your application name and the tag will be the version.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;Let&amp;#8217;s have a look at an example using Maven:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;First create a new Spring Boot project using start.spring.io:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="listingblock"&gt;
-&lt;div class="content"&gt;
-&lt;pre&gt;$ curl https://start.spring.io/starter.zip -d bootVersion=2.3.0.M1 -d dependencies=web -o demo.zip
-$ unzip demo.zip&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;Next ensure you have a local Docker installed and running, then type:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="listingblock"&gt;
-&lt;div class="content"&gt;
-&lt;pre&gt;$ ./mvnw spring-boot:build-image&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;It will take a little time to run the first time around, but subsequent calls will be quicker.
-You should see something like this in the build log:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="listingblock"&gt;
-&lt;div class="content"&gt;
-&lt;pre&gt;[INFO] Building image 'docker.io/library/demo:0.0.1-SNAPSHOT'
-[INFO]
-[INFO]  &amp;gt; Pulling builder image 'docker.io/cloudfoundry/cnb:0.0.43-bionic' 100%
-[INFO]  &amp;gt; Pulled builder image 'cloudfoundry/cnb@sha256:c983fb9602a7fb95b07d35ef432c04ad61ae8458263e7fb4ce62ca10de367c3b'
-[INFO]  &amp;gt; Pulling run image 'docker.io/cloudfoundry/run:base-cnb' 100%
-[INFO]  &amp;gt; Pulled run image 'cloudfoundry/run@sha256:ba9998ae4bb32ab43a7966c537aa1be153092ab0c7536eeef63bcd6336cbd0db'
-[INFO]  &amp;gt; Executing lifecycle version v0.5.0
-[INFO]  &amp;gt; Using build cache volume 'pack-cache-5cbe5692dbc4.build'
-[INFO]
-[INFO]  &amp;gt; Running detector
-[INFO]     [detector]    6 of 13 buildpacks participating
-...
-[INFO]
-[INFO]  &amp;gt; Running restorer
-[INFO]     [restorer]    Restoring cached layer 'org.cloudfoundry.openjdk:2f08c469c9a8adea1b6ee3444ba2a8242a7e99d87976a077faf037a9eb7f884b'
-...
-[INFO]
-[INFO]  &amp;gt; Running cacher
-[INFO]     [cacher]      Reusing layer 'org.cloudfoundry.openjdk:2f08c469c9a8adea1b6ee3444ba2a8242a7e99d87976a077faf037a9eb7f884b'
-[INFO]     [cacher]      Reusing layer 'org.cloudfoundry.jvmapplication:executable-jar'
-[INFO]     [cacher]      Caching layer 'org.cloudfoundry.springboot:spring-boot'
-[INFO]     [cacher]      Reusing layer 'org.cloudfoundry.springautoreconfiguration:46ab131165317d91fd4ad3186abf755222744e2d277dc413def06f3ad45ab150'
-[INFO]
-[INFO] Successfully built image 'docker.io/library/demo:0.0.1-SNAPSHOT'&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;That&amp;#8217;s it! Your application has been compiled, packaged and converted to a Docker image.
-You can test it using:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="listingblock"&gt;
-&lt;div class="content"&gt;
-&lt;pre&gt;$ docker run -it -p8080:8080 demo:0.0.1-SNAPSHOT&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="admonitionblock note"&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td class="icon"&gt;
-&lt;div class="title"&gt;Note&lt;/div&gt;
-&lt;/td&gt;
-&lt;td class="content"&gt;
-Unfortunately &lt;code&gt;M1&lt;/code&gt; does not support Windows but it should work fine on a Mac or in a Linux VM. If you&amp;#8217;re using Windows, please use &lt;code&gt;2.3.0.BUILD-SNAPSHOT&lt;/code&gt; for the time being.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;The built-in support provided by Spring Boot provides a great way to get started with buildpacks.
-Since it&amp;#8217;s an implementation of the buildpack platform specification, it&amp;#8217;s also easy to migrate to more powerful buildpack tools such as &lt;a href="https://github.com/buildpacks/pack"&gt;&lt;code&gt;pack&lt;/code&gt;&lt;/a&gt; or &lt;a href="https://github.com/pivotal/kpack"&gt;&lt;code&gt;kpack&lt;/code&gt;&lt;/a&gt; with confidence that the same image will be produced.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="sect1"&gt;
-&lt;h2 id="layered-jars"&gt;&lt;a class="anchor" href="#layered-jars"&gt;&lt;/a&gt;Layered Jars&lt;/h2&gt;
-&lt;div class="sectionbody"&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;It&amp;#8217;s possible that you might not want to use buildpacks to create your images.
-Perhaps you have existing tools that are built around dockerfiles, or perhaps you just prefer them.
-Either way, we wanted to make it also easier to create optimized Docker images that can be built with a regular dockerfile so we&amp;#8217;ve added support for "layered jars".&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;Spring Boot has always supported its own "fat jar" format that allows you to create an archive that you can run using &lt;code&gt;java -jar&lt;/code&gt;.
-If you&amp;#8217;ve ever looked into the contents of that jar, you&amp;#8217;d see a structure that looks like this:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="listingblock"&gt;
-&lt;div class="content"&gt;
-&lt;pre&gt;META-INF/
-  MANIFEST.MF
-org/
-  springframework/
-    boot/
-      loader/
-        ...
-BOOT-INF/
-  classes/
-    ...
-  lib/
-    ...&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;The jar is organized into three main parts:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="ulist"&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Classes used to bootstrap jar loading&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Your application classes in &lt;code&gt;BOOT-INF/classes&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Dependencies in &lt;code&gt;BOOT-INF/lib&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;Since this format is unique to Spring Boot, it&amp;#8217;s possible for us to evolve it in interesting ways.
-With Spring Boot &lt;code&gt;2.3.0.M1&lt;/code&gt; we&amp;#8217;re providing a new &lt;code&gt;layout&lt;/code&gt; type called &lt;code&gt;LAYERED_JAR&lt;/code&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;If you opt-in to the layered format and peek at the jar structure, you&amp;#8217;ll see something like this:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="listingblock"&gt;
-&lt;div class="content"&gt;
-&lt;pre&gt;META-INF/
-  MANIFEST.MF
-org/
-  springframework/
-    boot/
-      loader/
-        ...
-BOOT-INF/
-  layers/
-    &amp;lt;name&amp;gt;/
-      classes/
-        ...
-      lib/
-        ...
-    &amp;lt;name&amp;gt;/
-      classes/
-        ...
-      lib/
-        ...
-  layers.idx&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;You still see the bootstrap loader classes (you can still run &lt;code&gt;java -jar&lt;/code&gt;) but now the &lt;code&gt;lib&lt;/code&gt; and &lt;code&gt;classes&lt;/code&gt; folders have been split up and categorized into layers.
-There&amp;#8217;s also a new &lt;code&gt;layers.idx&lt;/code&gt; file that provides the order in which layers should be added.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;Initially, we&amp;#8217;re providing the following layers out-of-the box:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="ulist"&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code&gt;dependencies&lt;/code&gt; (for regular released dependencies)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code&gt;snapshot-dependencies&lt;/code&gt; (for snapshot dependencies)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code&gt;resources&lt;/code&gt; (for static resources)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code&gt;application&lt;/code&gt; (for application classes and resources)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;This layering is designed to separate code based on how likely it is to change between application builds. Library code is less likely to change between builds, so it is placed in its own layers to allow tooling to re-use the layers from cache. Application code is more likely to change between builds so it is isolated in a separate layer.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="sect2"&gt;
-&lt;h3 id="extracting-layers"&gt;&lt;a class="anchor" href="#extracting-layers"&gt;&lt;/a&gt;Extracting layers&lt;/h3&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;Even with the new format, there are still a few hoops you need to jump though in order to extract the files so that they can be copied by your &lt;code&gt;dockerfile&lt;/code&gt;.
-Those loader classes need to be in the root of your jar, but you probably want them in an actual layer when you build the image.
-Of course, you can do this with some combination of &lt;code&gt;unzip&lt;/code&gt; and &lt;code&gt;mv&lt;/code&gt;, but we&amp;#8217;ve tried to make it even easier by introducing the idea of "jar modes".&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;A &lt;code&gt;jarmode&lt;/code&gt; is a special system property that you can set when you launch the jar.
-It allows the bootstrap code to run something entirely different from your application.
-For example, something that extracts the layers.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;Here&amp;#8217;s how you can launch your jar with a &lt;code&gt;layertools&lt;/code&gt; jar mode:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="listingblock"&gt;
-&lt;div class="content"&gt;
-&lt;pre&gt;$ java -Djarmode=layertools -jar my-app.jar&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;This will provide the following output:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="listingblock"&gt;
-&lt;div class="content"&gt;
-&lt;pre&gt;Usage:
-  java -Djarmode=layertools -jar my-app.jar
-
-Available commands:
-  list     List layers from the jar that can be extracted
-  extract  Extracts layers from the jar for image creation
-  help     Help about any command&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;In this mode you can either &lt;code&gt;list&lt;/code&gt; or &lt;code&gt;extract&lt;/code&gt; layers.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="sect2"&gt;
-&lt;h3 id="writing-the-dockerfile"&gt;&lt;a class="anchor" href="#writing-the-dockerfile"&gt;&lt;/a&gt;Writing the &lt;code&gt;dockerfile&lt;/code&gt;&lt;/h3&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;Let&amp;#8217;s continue with the sample application that we generated above and add a &lt;code&gt;dockerfile&lt;/code&gt; to it.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;Start by editing the &lt;code&gt;pom.xml&lt;/code&gt; and add the following:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="listingblock"&gt;
-&lt;div class="content"&gt;
-&lt;pre class="prettyprint highlight"&gt;&lt;code class="language-xml" data-lang="xml"&gt;&amp;lt;build&amp;gt;
-	&amp;lt;plugins&amp;gt;
-		&amp;lt;plugin&amp;gt;
-			&amp;lt;groupId&amp;gt;org.springframework.boot&amp;lt;/groupId&amp;gt;
-			&amp;lt;artifactId&amp;gt;spring-boot-maven-plugin&amp;lt;/artifactId&amp;gt;
-			&amp;lt;configuration&amp;gt;
-				&amp;lt;layout&amp;gt;LAYERED_JAR&amp;lt;/layout&amp;gt;
-			&amp;lt;/configuration&amp;gt;
-		&amp;lt;/plugin&amp;gt;
-	&amp;lt;/plugins&amp;gt;
-&amp;lt;/build&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;Then rebuild the jar:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="listingblock"&gt;
-&lt;div class="content"&gt;
-&lt;pre&gt;$ mvn clean package&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;All being well, we should now have a layered jar with &lt;code&gt;jarmode&lt;/code&gt; support.
-Test it with the following:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="listingblock"&gt;
-&lt;div class="content"&gt;
-&lt;pre&gt;$ java -Djarmode=layertools -jar target/demo-0.0.1-SNAPSHOT.jar list&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;You should see the following output which tells us the layers and the order that they should be added:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="listingblock"&gt;
-&lt;div class="content"&gt;
-&lt;pre&gt;dependencies
-snapshot-dependencies
-resources
-application&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;We can now craft a &lt;code&gt;dockerfile&lt;/code&gt; that extracts and copies each layer.
-Here&amp;#8217;s an example:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="listingblock"&gt;
-&lt;div class="content"&gt;
-&lt;pre&gt;FROM adoptopenjdk:11-jre-hotspot as builder
-WORKDIR application
-ARG JAR_FILE=target/*.jar
-COPY ${JAR_FILE} application.jar
-RUN java -Djarmode=layertools -jar application.jar extract
-
-FROM adoptopenjdk:11-jre-hotspot
-WORKDIR application
-COPY --from=builder application/dependencies/ ./
-COPY --from=builder application/snapshot-dependencies/ ./
-COPY --from=builder application/resources/ ./
-COPY --from=builder application/application/ ./
-ENTRYPOINT ["java", "org.springframework.boot.loader.JarLauncher"]&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;This is a multi-stage dockerfile.
-The &lt;code&gt;builder&lt;/code&gt; stage extracts the folders that are needed later.
-Each of the &lt;code&gt;COPY&lt;/code&gt; commands relates to the layers that we listed earlier.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;To build the image we can run:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="listingblock"&gt;
-&lt;div class="content"&gt;
-&lt;pre&gt;$ docker build . --tag demo&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;Then we can test it:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="listingblock"&gt;
-&lt;div class="content"&gt;
-&lt;pre&gt;$ docker run -it -p8080:8080 demo:latest&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="sect1"&gt;
-&lt;h2 id="summary"&gt;&lt;a class="anchor" href="#summary"&gt;&lt;/a&gt;Summary&lt;/h2&gt;
-&lt;div class="sectionbody"&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;With buildpacks, dockerfiles and existing plugins such as &lt;a href="https://github.com/GoogleContainerTools/jib"&gt;jib&lt;/a&gt;, there&amp;#8217;s certainly no shortage of ways to create Docker images.
-Each approach has pros and cons, but hopefully the new features we&amp;#8217;re shipping in Spring Boot 2.3 will be helpful no matter which approach you choose.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;Spring Boot 2.3 is currently scheduled to be released at the end of April and we&amp;#8217;re very interested in feedback on the Docker images before then (raise issues, comment here or chat on Gitter).&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;Happy containerizing!&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
 &lt;!-- rendered by Sagan Renderer Service --&gt;</content>
   </entry>
 </feed>
