@@ -8,7 +8,7 @@ import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 
-// Mapper
+// Mapper -> 데이터를 분류하는 역할 (line 하나에 대한 분류)
 // 1. Mapper클래스를 상속한다.
 //	=> mapper에 전달될 input데이터의 key, value타입과 
 //	   mapper의 실행결과로 출력되는 output데이터의 key, value타입을 정의
@@ -42,6 +42,7 @@ public class WordCountMapper
 		StringTokenizer st = new StringTokenizer(value.toString());
 		while(st.hasMoreTokens()) { // read, a, book이 토큰
 			String token = st.nextToken();
+			// (((((조건 명시))))) ex. 5만원 이상만 전송
 			outputKey.set(token); // output데이터의 키를 셋팅
 			// Context객체의 write메소드를 통해서 output으로 
 			// 내보낼 데이터의 key와 value를 정의
