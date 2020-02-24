@@ -30,7 +30,6 @@ public class AirMultipleReducer extends Reducer<Text, IntWritable, Text, IntWrit
 			Reducer<Text, IntWritable, Text, IntWritable>.Context context) 
 					throws IOException, InterruptedException {
 		
-		// key가 안옴
 		String[] data = key.toString().split(",");
 		resultKey.set(data[1]);
 		

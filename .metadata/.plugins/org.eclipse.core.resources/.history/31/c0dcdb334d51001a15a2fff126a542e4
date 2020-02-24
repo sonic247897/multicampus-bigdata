@@ -1,8 +1,0 @@
-package hdfs.exam;
-
-public class HDFSTest02 {
-	public static void main(String[] args) {
-
-	}
-
-}

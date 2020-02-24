@@ -25,7 +25,9 @@ public class AirMultipleOptionMapper extends Mapper<LongWritable, Text, Text, In
 				multiOutProcess(line, "dep", context);
 				multiOutProcess(line, "arr", context);
 				
-				/*if(!line[15].equals("NA")) {
+				/*
+				 // 1. 출발지연
+				 if(!line[15].equals("NA")) {
 					if(Integer.parseInt(line[15])>0) {
 						outputKey.set("dep,"+line[1]+"월");
 						context.write(outputKey, outputVal);
@@ -46,8 +48,6 @@ public class AirMultipleOptionMapper extends Mapper<LongWritable, Text, Text, In
 					context.write(outputKey, outputVal);
 				}*/
 					
-				
-				
 			}
 		}
 	}
