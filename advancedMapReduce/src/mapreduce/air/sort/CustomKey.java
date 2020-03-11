@@ -15,6 +15,7 @@ import org.apache.hadoop.io.WritableUtils;
 public class CustomKey implements WritableComparable<CustomKey>{
 	private String year;
 	private Integer month;
+	private Long mapkey; //map에서 key가 잘 받아졌는지 확인
 	
 	public CustomKey() {
 		
@@ -26,6 +27,14 @@ public class CustomKey implements WritableComparable<CustomKey>{
 		this.month = month;
 	}
 	
+	
+	public CustomKey(String year, Integer month, Long mapkey) {
+		super();
+		this.year = year;
+		this.month = month;
+		this.mapkey = mapkey;
+	}
+
 	@Override
 	public String toString() {
 		// +로 연결되는 것은 하나하나가 String객체로 올라오는데,
@@ -52,11 +61,21 @@ public class CustomKey implements WritableComparable<CustomKey>{
 		this.month = month;
 	}
 	
+	public Long getMapkey() {
+		return mapkey;
+	}
+	
+	public void setMapkey(Long mapkey) {
+		this.mapkey = mapkey;
+	}
+	
+	// <네트워크>
 	// 데이터를 쓰고 읽는 작업을 처리
 	// 데이터를 쓰기 - 직렬화 (패킷 단위로 구분해서 써야 함)
 	// 데이터를 읽기 - 역직렬화
 	//	=> 내부적으로 자바의 API를 이용해서 구현 [java.io.DataInput]
 	// 하둡의 맵리듀스 내부에서 이런 작업을 처리할 수 있도록 구현된 메소드를 호출해서 처리
+
 	
 	// 직렬화될 때 호출되는 메소드
 	@Override
@@ -67,6 +86,7 @@ public class CustomKey implements WritableComparable<CustomKey>{
 		// 기본형 데이터는 byte단위로 쪼갤 필요 없이 그냥 보내면 됨
 		// out = [java.io.DataInput]
 		out.writeInt(month);
+		out.writeLong(mapkey);
 	}
 	
 	// 역직렬화될 때 호출되는 메소드
@@ -74,6 +94,7 @@ public class CustomKey implements WritableComparable<CustomKey>{
 	public void readFields(DataInput in) throws IOException {
 		year = WritableUtils.readString(in);
 		month = in.readInt();
+		mapkey = in.readLong();
 	}
 
 	// 사용자가 만들어 놓은 키를 기준으로 정렬하기 위해서 비교하게 할 메소드

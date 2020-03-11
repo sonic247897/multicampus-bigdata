@@ -20,6 +20,9 @@ public class AirSortMapper extends Mapper<LongWritable, Text, CustomKey, IntWrit
 				if(!line[15].equals("NA") && Integer.parseInt(line[15])>0) {
 					outputKey.setYear(line[0]);
 					outputKey.setMonth(new Integer(line[1]));
+					// byteoffset 넘기기 
+					// map에서 내보낼 때마다 다르다. reducer에서 읽는 map키
+					outputKey.setMapkey(key.get()); 
 					context.write(outputKey, outputVal);
 				}
 			}

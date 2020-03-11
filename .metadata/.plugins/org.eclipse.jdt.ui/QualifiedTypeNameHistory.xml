@@ -36,14 +36,11 @@
 <fullyQualifiedTypeName name="mapred.exam.stock.option.StockOptionDriver"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.db.TextSplitter"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.output.TextOutputFormat"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.io.Text"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.output.MultipleOutputs"/>
 <fullyQualifiedTypeName name="java.util.regex.Matcher"/>
 <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.io.Writable"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.io.WritableComparable"/>
-<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.io.WritableUtils"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Partitioner"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.io.WritableComparator"/>
 <fullyQualifiedTypeName name="mapreduce.air.sort.AirSortPartitioner"/>
@@ -52,4 +49,8 @@
 <fullyQualifiedTypeName name="org.apache.hadoop.io.IntWritable"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="mapreduce.air.sort.CustomKey"/>
+<fullyQualifiedTypeName name="mapreduce.basic.WordCountReducer"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.WritableUtils"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.Text"/>
 </qualifiedTypeNameHistroy>
