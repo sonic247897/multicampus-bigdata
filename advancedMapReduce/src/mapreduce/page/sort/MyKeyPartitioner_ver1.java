@@ -3,6 +3,7 @@ package mapreduce.page.sort;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.mapreduce.Partitioner;
 
+// 파티셔너는 reduce태스크를 나눠주는 작업만 한다.
 // Partitioner클래스에는 Mapper의 key와 value타입을 generic으로 명시
 public class MyKeyPartitioner_ver1 
 				extends Partitioner<MyKey, IntWritable>{

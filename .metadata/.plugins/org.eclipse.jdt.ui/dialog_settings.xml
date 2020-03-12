@@ -135,6 +135,8 @@
 		<item value="false" key="JarManifestWizardPage.SAVE_MANIFEST"/>
 		<item value="false" key="JarPackageWizardPage.EXPORT_OUTPUT_FOLDER"/>
 		<list key="JarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="bigdataShopComment\comment-wordcount.jar"/>
+			<item value="advancedMapReduce\comment-wordcount.jar"/>
 			<item value="advancedMapReduce\mapred-exam.jar"/>
 			<item value="advancedMapReduce/mapred-exam.jar"/>
 		</list>

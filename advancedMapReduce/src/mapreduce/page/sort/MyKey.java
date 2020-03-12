@@ -66,7 +66,7 @@ public class MyKey implements WritableComparable<MyKey>{
 	@Override
 	public void write(DataOutput out) throws IOException {
 		// 참조형 데이터는 byte단위로 쪼개서 전송해야한다.
-		// - 하둡이 제공하는 outputStream(WritableUtils함수?)에 year변수를 내보냄
+		// - 하둡이 제공하는 outputStream(WritableUtils함수?)에 id변수를 내보냄
 		WritableUtils.writeString(out, productId);
 		WritableUtils.writeString(out, userId);
 	}
@@ -79,7 +79,7 @@ public class MyKey implements WritableComparable<MyKey>{
 	}
 
 	// 사용자가 만들어 놓은 키를 기준으로 정렬하기 위해서 비교하게 할 메소드
-	// year로 비교, year가 같으면 month로 비교
+	// productId로 비교, productId 같으면 userId로 비교
 	
 	// 기준을 여러개 정하고 싶지만 키는 1개밖에 못 넘긴다. (mapper나 reducer가 1개 키만 받음) 
 	//		=> 클래스 만들어야 함!
@@ -87,7 +87,7 @@ public class MyKey implements WritableComparable<MyKey>{
 	@Override
 	public int compareTo(MyKey obj) {
 		int result = productId.compareTo(obj.productId);
-		if(result ==0) { //year가 같을 때 month 기준으로 정렬
+		if(result ==0) {
 			result = userId.compareTo(obj.userId);
 		}
 		return result;

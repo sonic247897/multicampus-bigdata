@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="org.apache.hadoop.fs.FSDataOutputStream"/>
-<fullyQualifiedTypeName name="javax.sound.midi.Patch"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.fs.FSDataInputStream"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.fs.FileSystem"/>
 <fullyQualifiedTypeName name="mapred.basic.WordCountMapper"/>
 <fullyQualifiedTypeName name="mapred.basic.WordCountReducer"/>
 <fullyQualifiedTypeName name="mapred.basic.WordCountDriver"/>
 <fullyQualifiedTypeName name="javax.xml.soap.Text"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Mapper"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.io.LongWritable"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Reducer"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Job"/>
 <fullyQualifiedTypeName name="mapred.exam01.WordCountMapperExam"/>
 <fullyQualifiedTypeName name="mapred.exam01.WordCountReducerExam"/>
@@ -20,7 +15,6 @@
 <fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.output.FileOutputFormat"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.fs.Path"/>
 <fullyQualifiedTypeName name="mapred.exam.stock.StockReducer"/>
-<fullyQualifiedTypeName name="java.util.StringTokenizer"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="java.lang.Float"/>
 <fullyQualifiedTypeName name="java.lang.Double"/>
@@ -37,8 +31,6 @@
 <fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.db.TextSplitter"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.output.TextOutputFormat"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.output.MultipleOutputs"/>
-<fullyQualifiedTypeName name="java.util.regex.Matcher"/>
-<fullyQualifiedTypeName name="java.util.regex.Pattern"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.io.Writable"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.io.WritableComparable"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Partitioner"/>
@@ -46,11 +38,26 @@
 <fullyQualifiedTypeName name="mapreduce.air.sort.AirSortPartitioner"/>
 <fullyQualifiedTypeName name="mapreduce.air.sort.GroupKeyComparator"/>
 <fullyQualifiedTypeName name="mapreduce.air.sort.CustomKeyComparator"/>
-<fullyQualifiedTypeName name="org.apache.hadoop.io.IntWritable"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="mapreduce.air.sort.CustomKey"/>
 <fullyQualifiedTypeName name="mapreduce.basic.WordCountReducer"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.io.WritableUtils"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="kr.multi.bigdataShop.product.comment.ProductCommentDTO"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="kr.multi.bigdataShop.product.comment.ProductCommentService"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.ModelAndView"/>
+<fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+<fullyQualifiedTypeName name="java.util.regex.Matcher"/>
 <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Mapper"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.LongWritable"/>
+<fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Reducer"/>
 <fullyQualifiedTypeName name="org.apache.hadoop.io.Text"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.IntWritable"/>
+<fullyQualifiedTypeName name="shop.bigdata.comment.CommentWordCountMapper"/>
+<fullyQualifiedTypeName name="shop.bigdata.comment.CommentWordCountReducer"/>
+<fullyQualifiedTypeName name="shop.bigdata.comment.CommentWordCountDriver"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
 </qualifiedTypeNameHistroy>

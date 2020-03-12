@@ -7,6 +7,7 @@ import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 
 // MyKey에 포함된 컬럼이라고 해도 내보내고 싶다면 또 내보내도 된다.(userId)
+// 마지막 매개변수를 IntWritable(1)에서 Text로 변경
 public class PageViewMapper_ver2 extends Mapper<LongWritable, Text, MyKey, Text>{
 	MyKey outputKey = new MyKey(); //output key
 	Text outputVal = new Text();
