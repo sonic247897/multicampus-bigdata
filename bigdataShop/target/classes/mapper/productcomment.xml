@@ -13,6 +13,15 @@
 		values(#{prd_no},#{mem_id},#{pro_comment},sysdate)
 	</insert>
 	
+	<select id="result" resultType="commentResult">
+		<![CDATA[
+			select c.*
+			from (select *
+					from comment_result
+					order by count desc) c
+			where rownum<=10
+		]]>
+	</select>
 </mapper>
 
 

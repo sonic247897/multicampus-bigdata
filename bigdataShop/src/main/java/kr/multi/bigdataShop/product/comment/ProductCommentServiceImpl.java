@@ -21,6 +21,11 @@ public class ProductCommentServiceImpl implements ProductCommentService {
 		return dao.insert(comment);
 	}
 
+	@Override
+	public List<CommentResultDTO> result() {
+		return dao.result();
+	}
+
 
 }
 

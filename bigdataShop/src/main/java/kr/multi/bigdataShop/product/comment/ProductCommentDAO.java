@@ -5,4 +5,5 @@ import java.util.List;
 public interface ProductCommentDAO {
 	int insert(ProductCommentDTO comment);
 	List<ProductCommentDTO> list(String prd_no);
+	List<CommentResultDTO> result();
 }
