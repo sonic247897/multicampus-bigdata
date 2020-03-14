@@ -72,7 +72,6 @@ INDEX VERSION 1.130+C:\iot\work\bigdatawork\.metadata\.plugins\org.eclipse.jdt.c
 2746302371.index
 1804644072.index
 1372285058.index
-3436173742.index
 2859104906.index
 2151919760.index
 1545932363.index
