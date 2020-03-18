@@ -15,6 +15,7 @@
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="pag"/>
 			<item value="pro_comment"/>
 			<item value="logging"/>
 			<item value="loggin"/>

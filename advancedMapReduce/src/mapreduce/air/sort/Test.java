@@ -15,6 +15,11 @@ public class Test {
 		System.out.println((int)'b');
 		System.out.println((int)'a');
 		System.out.println(data1.compareTo(data2)); //기준= data1-data2
+		// data1-data2 >0 이면 오름차순 정렬
+		System.out.println("=============================");
+		String d1 = "987";
+		String d2 = "9876";
+		System.out.println(d1.compareTo(d2));
 		
 		// hashcode
 		// 해시코드란 객체를 구분할 수 있는 정수값
