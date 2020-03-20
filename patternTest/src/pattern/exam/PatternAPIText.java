@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 
 public class PatternAPIText {
 	public static void main(String[] args) {
-		String value = "배송이 너무 느려요 상품가 좋아서 예뻐요 좋아 좋아"; 
+		String value = "배송이 너무 느려요 좋아 상품가 좋아서 예뻐요 좋아 좋아"; 
 		Pattern p = Pattern.compile("은|는|이|가|요|서");
 		Matcher m = p.matcher(value);
 		//패턴에 일치하지 않는 문자들만 추출해서 저장

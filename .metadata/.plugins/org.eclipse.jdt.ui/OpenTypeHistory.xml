@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-<typeInfo handle="=mongoTest/src\/main\/java&lt;spring.data.mongodb.service{ScoreMongoService.java[ScoreMongoService" modifiers="513" timestamp="1584496033520"/>
-<typeInfo handle="=mongoTest/src\/main\/java&lt;spring.data.mongodb.dao{ScoreMongoDAO.java[ScoreMongoDAO" modifiers="513" timestamp="1584496072885"/>
+<typeInfo handle="=mongoTest/src\/main\/java&lt;spring.data.mongodb.service{ScoreMongoService.java[ScoreMongoService" modifiers="513" timestamp="1584515807030"/>
+<typeInfo handle="=mongoTest/src\/main\/java&lt;spring.data.mongodb.dao{ScoreMongoDAO.java[ScoreMongoDAO" modifiers="513" timestamp="1584515911722"/>
 </typeInfoHistroy>
